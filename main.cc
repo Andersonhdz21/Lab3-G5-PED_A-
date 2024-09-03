@@ -18,6 +18,7 @@ int main(){
     std::cin>>num;
     std::cout<<"\n------------------------------------------\nLa suma de los primeros "<<num<<" naturales es: "<<SumaNaturales(num)<<"\n------------------------------------------";
     return 0;
+    
 }
 
 float Potencia(float base, int exponente){
